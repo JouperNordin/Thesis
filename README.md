@@ -1,6 +1,8 @@
 # Thesis 
 **Performance analysis of multithreaded sorting algorithms - java**
 
+To run the algorithms, move the test data into the corresponding folder for the algorithm. The results will be located in the parallelism level after execution.
+
 **Time complexity**
 
 **Bitonic sort:** Worst case O(nlog<sub>2</sub>(n)<sup>2</sup>), Average case Θ(nlog<sub>2</sub>(n)<sup>2</sup>), Best case Ω(nlog<sub>2</sub>(n)<sup>2</sup>)
