@@ -1,0 +1,7 @@
+The average time for 16 		 elements to sort, took 591 nano seconds 
+The average time for 256 		 elements to sort, took 14738 nano seconds 
+The average time for 4096 		 elements to sort, took 408324 nano seconds 
+The average time for 65536 		 elements to sort, took 9549860 nano seconds 
+The average time for 1048576 	 elements to sort, took 206733686 nano seconds 
+The average time for 4194304 	 elements to sort, took 946317332 nano seconds 
+The average time for 16777216 	 elements to sort, took 4331768509 nano seconds 
