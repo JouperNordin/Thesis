@@ -1,5 +1,5 @@
-# Thesis
-Performance analysis of multithreaded sorting algorithms - java
+# Thesis 
+**Performance analysis of multithreaded sorting algorithms - java**
 
 **Time complexity**
 
